@@ -1,0 +1,33 @@
+.container {
+  display: grid;
+  height: 80vh;
+  .grid-box {
+    align-self: center;
+    justify-self: center;
+    margin-bottom: 30px;
+    height: 200px;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-areas: "image content";
+
+    .image {
+      grid-area: image;
+      align-self: center;
+      justify-self: center;
+
+      img {
+        height: 200px;
+      }
+    }
+
+    .content {
+      grid-area: content;
+      align-self: center;
+      p,
+      h3,
+      h2 {
+        margin: 0;
+      }
+    }
+  }
+}

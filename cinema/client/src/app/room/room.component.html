@@ -1,0 +1,15 @@
+<div *ngIf="room"
+     class="row">
+    <div class="screen"></div>
+    <div class="grid-container">
+        <div class=""
+             *ngFor="let seat of room.seats">
+            <button class="btn btn-outline-secondary mb-2"
+                    [ngClass]="{'btn-primary': seat==selectedSeat}"
+                    [disabled]="seat.state==1"
+                    (click)="selectSeat(seat)">
+                R: {{ seat.row }} - Nr: {{ seat.number }}
+            </button>
+        </div>
+    </div>
+</div>

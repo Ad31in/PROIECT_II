@@ -1,0 +1,89 @@
+<div *ngIf="!movie"
+     class="container">
+    <h2>Add Movie</h2>
+    <form (ngSubmit)="addMovie()"
+          #movieForm="ngForm">
+        <div class="mb-3">
+            <label for="title"
+                   class="form-label">Title</label>
+            <input type="text"
+                   id="title"
+                   name="title"
+                   class="form-control"
+                   [(ngModel)]="model.title"
+                   required>
+        </div>
+
+        <div class="mb-3">
+            <label for="description"
+                   class="form-label">Description</label>
+            <textarea id="description"
+                      name="description"
+                      class="form-control"
+                      [(ngModel)]="model.description"
+                      required></textarea>
+        </div>
+
+        <div class="mb-3">
+            <label for="duration"
+                   class="form-label">Duration</label>
+            <input type="time"
+                   step="1"
+                   id="duration"
+                   name="duration"
+                   class="form-control"
+                   [(ngModel)]="model.duration"
+                   placeholder="ex:"
+                   required>
+        </div>
+
+        <div class="mb-3">
+            <label for="genres"
+                   class="form-label">Genres</label>
+            <ng-select [items]="genres"
+                       bindLabel="id"
+                       appendTo="body"
+                       name="genres.name"
+                       [multiple]="true"
+                       [(ngModel)]="model.genres"
+                       class="form-control"
+                       [searchable]="false"
+                       [clearable]="false"
+                       [closeOnSelect]="false"
+                       [hideSelected]="true"
+                       [selectOnTab]="true"
+                       appendTo="body">
+                <ng-template ng-option-tmp
+                             let-item="item">
+                    <span>{{ item.id }}</span>
+                </ng-template>
+            </ng-select>
+
+        </div>
+
+        <button type="submit"
+                class="btn btn-primary"
+                [disabled]="!movieForm.valid">Add Movie</button>
+    </form>
+</div>
+
+<div *ngIf="movie"
+     class="container">
+    <h2>Add Movie Photo</h2>
+    <form (ngSubmit)="uploadPhoto()"
+          #photoForm="ngForm"
+          enctype="multipart/form-data">
+        <div class="mb-3">
+            <label for="photo"
+                   class="form-label">Photo</label>
+            <input type="file"
+                   class="form-control-file"
+                   id="photo"
+                   (change)="onFileSelected($event.target)">
+        </div>
+
+        <button type="submit"
+                class="btn btn-primary"
+                [disabled]="selectedPhoto==null">Upload Photo</button>
+    </form>
+</div>

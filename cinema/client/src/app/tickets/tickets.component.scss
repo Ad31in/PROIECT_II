@@ -1,0 +1,42 @@
+.container {
+  margin-top: 100px;
+
+  .grid-box {
+    border: 1px dotted black;
+    margin-bottom: 30px;
+    height: 200px;
+    display: grid;
+    grid-template-columns: 3fr 6fr 1fr;
+    grid-template-areas: "image content barcode";
+
+    .image {
+      grid-area: image;
+      align-self: center;
+      justify-self: center;
+
+      img {
+        height: 190px;
+      }
+    }
+
+    .content {
+      grid-area: content;
+      align-self: center;
+      border-right: 2px dotted black;
+      p,
+      h3,
+      h2 {
+        margin: 0;
+      }
+    }
+
+    .barcode {
+      grid-area: barcode;
+      align-self: center;
+      justify-self: end;
+      img {
+        height: 190px;
+      }
+    }
+  }
+}

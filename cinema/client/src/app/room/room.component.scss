@@ -1,0 +1,17 @@
+.screen {
+  min-height: 20px;
+  background-color: black;
+  margin-bottom: 20px;
+  border-bottom-right-radius: 50%;
+  border-bottom-left-radius: 50%;
+}
+.grid-container {
+  margin: 20px 0;
+  display: grid;
+  grid-template-columns: repeat(10, 1fr);
+  row-gap: 30px;
+}
+*:disabled {
+  background-color: red;
+  color: white;
+}

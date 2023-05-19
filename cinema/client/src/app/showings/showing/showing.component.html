@@ -1,0 +1,22 @@
+<div *ngIf="showing"
+     class="container">
+    <div *ngIf="!isSelected">
+        <h1>Movie: {{showing.movie?.title}}</h1>
+        <p>Room: {{showing.room?.number}}</p>
+        <app-room [roomId]="showing.room?.id"
+                  [showId]="showing.id"
+                  (seatSelected)="onSeatSelected($event)"></app-room>
+        <button class="btn btn-primary"
+                (click)="selectSeat(selectedSeat)">Select seat</button>
+    </div>
+    <div *ngIf="isSelected && selectedSeat">
+        <button class="btn btn-outline-secondary"
+                (click)="back()">Back</button>
+        <p>Row: {{selectedSeat.row}} Number: {{selectedSeat.number}}</p>
+        <p>Price: {{showing.price | currency:"EUR"}}</p>
+        <button class="btn btn-primary"
+                (click)="getTicket(0)">Buy</button>
+        <button class="btn btn-secondary ms-2"
+                (click)="getTicket(1)">Reserve</button>
+    </div>
+</div>

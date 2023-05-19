@@ -1,0 +1,72 @@
+<nav class="navbar navbar-expand-md navbar-dark fixed-top bg-primary">
+    <div class="container">
+        <a class="navbar-brand"
+           routerLink="/"><img src="../assets/images/logo.png"
+                 alt=""></a>
+        <ul class="navbar-nav me-auto mb-2 mb-md-0">
+            <ng-container *ngIf="accountService.currentUser$ | async as user">
+                <li class="nav-item">
+
+                    <a class="nav-link "
+                       aria-current="page"
+                       routerLink="/"
+                       routerLinkActive="active">Movies</a>
+                </li>
+                <li *ngIf="user.state=='Admin'"
+                    class="nav-item">
+                    <a class="nav-link"
+                       routerLink="/add-movie"
+                       routerLinkActive="active">Add Movie</a>
+                </li>
+                <li *ngIf="user.state=='Admin'"
+                    class="nav-item">
+                    <a class="nav-link"
+                       routerLink="/add-showing"
+                       routerLinkActive="active">Add Showing</a>
+                </li>
+                <li *ngIf="user.state=='Admin'"
+                    class="nav-item">
+                    <a class="nav-link"
+                       routerLink="/add-room"
+                       routerLinkActive="active">Add Room</a>
+                </li>
+            </ng-container>
+        </ul>
+        <div class="dropdown"
+             dropdown
+             *ngIf="(accountService.currentUser$ | async) as user">
+            <a class="dropdown-toggle text-light text-decoration-none ms-2"
+               dropdownToggle>
+                Welcome {{user.firstName | titlecase}}
+            </a>
+            <div class="dropdown-menu mt-3"
+                 *dropdownMenu>
+                <a (click)="reload()"
+                   *ngIf="user.state=='Admin'"
+                   class="dropdown-item">Reload Data</a>
+                <a routerLink="/tickets"
+                   class="dropdown-item">Tickets</a>
+                <a class="dropdown-item"
+                   (click)="logout()">Logout</a>
+            </div>
+        </div>
+        <form *ngIf="!(accountService.currentUser$ |async)"
+              #loginform="ngForm"
+              class="d-flex"
+              role="search"
+              (ngSubmit)="login()">
+            <input name="email"
+                   [(ngModel)]="model.email"
+                   class="form-control me-2"
+                   type="text"
+                   placeholder="Email">
+            <input name="password"
+                   [(ngModel)]="model.password"
+                   class="form-control me-2"
+                   type="password"
+                   placeholder="Password">
+            <button class="btn btn-secondary"
+                    type="submit">Login</button>
+        </form>
+    </div>
+</nav>

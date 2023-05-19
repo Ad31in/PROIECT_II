@@ -1,0 +1,24 @@
+C:\School\proiect-cinema\cinemaApp\cinema\cinema-api\Cinema.API\Common\bin\Debug\net6.0\Common.deps.json
+C:\School\proiect-cinema\cinemaApp\cinema\cinema-api\Cinema.API\Common\bin\Debug\net6.0\Common.dll
+C:\School\proiect-cinema\cinemaApp\cinema\cinema-api\Cinema.API\Common\bin\Debug\net6.0\Common.pdb
+C:\School\proiect-cinema\cinemaApp\cinema\cinema-api\Cinema.API\Common\obj\Debug\net6.0\Common.csproj.AssemblyReference.cache
+C:\School\proiect-cinema\cinemaApp\cinema\cinema-api\Cinema.API\Common\obj\Debug\net6.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\School\proiect-cinema\cinemaApp\cinema\cinema-api\Cinema.API\Common\obj\Debug\net6.0\Common.AssemblyInfoInputs.cache
+C:\School\proiect-cinema\cinemaApp\cinema\cinema-api\Cinema.API\Common\obj\Debug\net6.0\Common.AssemblyInfo.cs
+C:\School\proiect-cinema\cinemaApp\cinema\cinema-api\Cinema.API\Common\obj\Debug\net6.0\Common.csproj.CoreCompileInputs.cache
+C:\School\proiect-cinema\cinemaApp\cinema\cinema-api\Cinema.API\Common\obj\Debug\net6.0\Common.dll
+C:\School\proiect-cinema\cinemaApp\cinema\cinema-api\Cinema.API\Common\obj\Debug\net6.0\refint\Common.dll
+C:\School\proiect-cinema\cinemaApp\cinema\cinema-api\Cinema.API\Common\obj\Debug\net6.0\Common.pdb
+C:\School\proiect-cinema\cinemaApp\cinema\cinema-api\Cinema.API\Common\obj\Debug\net6.0\ref\Common.dll
+D:\PROIECT II\cinema\cinema-api\Cinema.API\Common\bin\Debug\net6.0\Common.deps.json
+D:\PROIECT II\cinema\cinema-api\Cinema.API\Common\bin\Debug\net6.0\Common.dll
+D:\PROIECT II\cinema\cinema-api\Cinema.API\Common\bin\Debug\net6.0\Common.pdb
+D:\PROIECT II\cinema\cinema-api\Cinema.API\Common\obj\Debug\net6.0\Common.csproj.AssemblyReference.cache
+D:\PROIECT II\cinema\cinema-api\Cinema.API\Common\obj\Debug\net6.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROIECT II\cinema\cinema-api\Cinema.API\Common\obj\Debug\net6.0\Common.AssemblyInfoInputs.cache
+D:\PROIECT II\cinema\cinema-api\Cinema.API\Common\obj\Debug\net6.0\Common.AssemblyInfo.cs
+D:\PROIECT II\cinema\cinema-api\Cinema.API\Common\obj\Debug\net6.0\Common.csproj.CoreCompileInputs.cache
+D:\PROIECT II\cinema\cinema-api\Cinema.API\Common\obj\Debug\net6.0\Common.dll
+D:\PROIECT II\cinema\cinema-api\Cinema.API\Common\obj\Debug\net6.0\refint\Common.dll
+D:\PROIECT II\cinema\cinema-api\Cinema.API\Common\obj\Debug\net6.0\Common.pdb
+D:\PROIECT II\cinema\cinema-api\Cinema.API\Common\obj\Debug\net6.0\ref\Common.dll

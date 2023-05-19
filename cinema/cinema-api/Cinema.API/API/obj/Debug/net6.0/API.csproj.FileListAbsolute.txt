@@ -1,0 +1,196 @@
+C:\School\proiect-cinema\cinemaApp\cinema\cinema-api\Cinema.API\API\obj\Debug\net6.0\API.csproj.AssemblyReference.cache
+C:\School\proiect-cinema\cinemaApp\cinema\cinema-api\Cinema.API\API\obj\Debug\net6.0\API.GeneratedMSBuildEditorConfig.editorconfig
+C:\School\proiect-cinema\cinemaApp\cinema\cinema-api\Cinema.API\API\obj\Debug\net6.0\API.AssemblyInfoInputs.cache
+C:\School\proiect-cinema\cinemaApp\cinema\cinema-api\Cinema.API\API\obj\Debug\net6.0\API.AssemblyInfo.cs
+C:\School\proiect-cinema\cinemaApp\cinema\cinema-api\Cinema.API\API\obj\Debug\net6.0\API.csproj.CoreCompileInputs.cache
+C:\School\proiect-cinema\cinemaApp\cinema\cinema-api\Cinema.API\API\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cs
+C:\School\proiect-cinema\cinemaApp\cinema\cinema-api\Cinema.API\API\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cache
+C:\School\proiect-cinema\cinemaApp\cinema\cinema-api\Cinema.API\API\bin\Debug\net6.0\appsettings.Development.json
+C:\School\proiect-cinema\cinemaApp\cinema\cinema-api\Cinema.API\API\bin\Debug\net6.0\appsettings.json
+C:\School\proiect-cinema\cinemaApp\cinema\cinema-api\Cinema.API\API\bin\Debug\net6.0\API.exe
+C:\School\proiect-cinema\cinemaApp\cinema\cinema-api\Cinema.API\API\bin\Debug\net6.0\API.deps.json
+C:\School\proiect-cinema\cinemaApp\cinema\cinema-api\Cinema.API\API\bin\Debug\net6.0\API.runtimeconfig.json
+C:\School\proiect-cinema\cinemaApp\cinema\cinema-api\Cinema.API\API\bin\Debug\net6.0\API.dll
+C:\School\proiect-cinema\cinemaApp\cinema\cinema-api\Cinema.API\API\bin\Debug\net6.0\API.pdb
+C:\School\proiect-cinema\cinemaApp\cinema\cinema-api\Cinema.API\API\bin\Debug\net6.0\AutoMapper.dll
+C:\School\proiect-cinema\cinemaApp\cinema\cinema-api\Cinema.API\API\bin\Debug\net6.0\Azure.Core.dll
+C:\School\proiect-cinema\cinemaApp\cinema\cinema-api\Cinema.API\API\bin\Debug\net6.0\Azure.Identity.dll
+C:\School\proiect-cinema\cinemaApp\cinema\cinema-api\Cinema.API\API\bin\Debug\net6.0\Humanizer.dll
+C:\School\proiect-cinema\cinemaApp\cinema\cinema-api\Cinema.API\API\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\School\proiect-cinema\cinemaApp\cinema\cinema-api\Cinema.API\API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\School\proiect-cinema\cinemaApp\cinema\cinema-api\Cinema.API\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\School\proiect-cinema\cinemaApp\cinema\cinema-api\Cinema.API\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\School\proiect-cinema\cinemaApp\cinema\cinema-api\Cinema.API\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\School\proiect-cinema\cinemaApp\cinema\cinema-api\Cinema.API\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\School\proiect-cinema\cinemaApp\cinema\cinema-api\Cinema.API\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\School\proiect-cinema\cinemaApp\cinema\cinema-api\Cinema.API\API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\School\proiect-cinema\cinemaApp\cinema\cinema-api\Cinema.API\API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\School\proiect-cinema\cinemaApp\cinema\cinema-api\Cinema.API\API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\School\proiect-cinema\cinemaApp\cinema\cinema-api\Cinema.API\API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\School\proiect-cinema\cinemaApp\cinema\cinema-api\Cinema.API\API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\School\proiect-cinema\cinemaApp\cinema\cinema-api\Cinema.API\API\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\School\proiect-cinema\cinemaApp\cinema\cinema-api\Cinema.API\API\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\School\proiect-cinema\cinemaApp\cinema\cinema-api\Cinema.API\API\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\School\proiect-cinema\cinemaApp\cinema\cinema-api\Cinema.API\API\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\School\proiect-cinema\cinemaApp\cinema\cinema-api\Cinema.API\API\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\School\proiect-cinema\cinemaApp\cinema\cinema-api\Cinema.API\API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\School\proiect-cinema\cinemaApp\cinema\cinema-api\Cinema.API\API\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\School\proiect-cinema\cinemaApp\cinema\cinema-api\Cinema.API\API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\School\proiect-cinema\cinemaApp\cinema\cinema-api\Cinema.API\API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\School\proiect-cinema\cinemaApp\cinema\cinema-api\Cinema.API\API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\School\proiect-cinema\cinemaApp\cinema\cinema-api\Cinema.API\API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\School\proiect-cinema\cinemaApp\cinema\cinema-api\Cinema.API\API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\School\proiect-cinema\cinemaApp\cinema\cinema-api\Cinema.API\API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\School\proiect-cinema\cinemaApp\cinema\cinema-api\Cinema.API\API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\School\proiect-cinema\cinemaApp\cinema\cinema-api\Cinema.API\API\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\School\proiect-cinema\cinemaApp\cinema\cinema-api\Cinema.API\API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\School\proiect-cinema\cinemaApp\cinema\cinema-api\Cinema.API\API\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\School\proiect-cinema\cinemaApp\cinema\cinema-api\Cinema.API\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\School\proiect-cinema\cinemaApp\cinema\cinema-api\Cinema.API\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\School\proiect-cinema\cinemaApp\cinema\cinema-api\Cinema.API\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\School\proiect-cinema\cinemaApp\cinema\cinema-api\Cinema.API\API\bin\Debug\net6.0\System.CodeDom.dll
+C:\School\proiect-cinema\cinemaApp\cinema\cinema-api\Cinema.API\API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\School\proiect-cinema\cinemaApp\cinema\cinema-api\Cinema.API\API\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\School\proiect-cinema\cinemaApp\cinema\cinema-api\Cinema.API\API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\School\proiect-cinema\cinemaApp\cinema\cinema-api\Cinema.API\API\bin\Debug\net6.0\System.Memory.Data.dll
+C:\School\proiect-cinema\cinemaApp\cinema\cinema-api\Cinema.API\API\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\School\proiect-cinema\cinemaApp\cinema\cinema-api\Cinema.API\API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\School\proiect-cinema\cinemaApp\cinema\cinema-api\Cinema.API\API\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\School\proiect-cinema\cinemaApp\cinema\cinema-api\Cinema.API\API\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\School\proiect-cinema\cinemaApp\cinema\cinema-api\Cinema.API\API\bin\Debug\net6.0\System.Text.Json.dll
+C:\School\proiect-cinema\cinemaApp\cinema\cinema-api\Cinema.API\API\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\School\proiect-cinema\cinemaApp\cinema\cinema-api\Cinema.API\API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\School\proiect-cinema\cinemaApp\cinema\cinema-api\Cinema.API\API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\School\proiect-cinema\cinemaApp\cinema\cinema-api\Cinema.API\API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\School\proiect-cinema\cinemaApp\cinema\cinema-api\Cinema.API\API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\School\proiect-cinema\cinemaApp\cinema\cinema-api\Cinema.API\API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\School\proiect-cinema\cinemaApp\cinema\cinema-api\Cinema.API\API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\School\proiect-cinema\cinemaApp\cinema\cinema-api\Cinema.API\API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\School\proiect-cinema\cinemaApp\cinema\cinema-api\Cinema.API\API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\School\proiect-cinema\cinemaApp\cinema\cinema-api\Cinema.API\API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\School\proiect-cinema\cinemaApp\cinema\cinema-api\Cinema.API\API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\School\proiect-cinema\cinemaApp\cinema\cinema-api\Cinema.API\API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\School\proiect-cinema\cinemaApp\cinema\cinema-api\Cinema.API\API\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\School\proiect-cinema\cinemaApp\cinema\cinema-api\Cinema.API\API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\School\proiect-cinema\cinemaApp\cinema\cinema-api\Cinema.API\API\bin\Debug\net6.0\DataLogic.dll
+C:\School\proiect-cinema\cinemaApp\cinema\cinema-api\Cinema.API\API\bin\Debug\net6.0\DataLogic.pdb
+C:\School\proiect-cinema\cinemaApp\cinema\cinema-api\Cinema.API\API\obj\Debug\net6.0\staticwebassets\msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\School\proiect-cinema\cinemaApp\cinema\cinema-api\Cinema.API\API\obj\Debug\net6.0\staticwebassets\msbuild.build.API.props
+C:\School\proiect-cinema\cinemaApp\cinema\cinema-api\Cinema.API\API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.API.props
+C:\School\proiect-cinema\cinemaApp\cinema\cinema-api\Cinema.API\API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.API.props
+C:\School\proiect-cinema\cinemaApp\cinema\cinema-api\Cinema.API\API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\School\proiect-cinema\cinemaApp\cinema\cinema-api\Cinema.API\API\obj\Debug\net6.0\staticwebassets.build.json
+C:\School\proiect-cinema\cinemaApp\cinema\cinema-api\Cinema.API\API\obj\Debug\net6.0\staticwebassets.development.json
+C:\School\proiect-cinema\cinemaApp\cinema\cinema-api\Cinema.API\API\obj\Debug\net6.0\scopedcss\bundle\API.styles.css
+C:\School\proiect-cinema\cinemaApp\cinema\cinema-api\Cinema.API\API\obj\Debug\net6.0\API.csproj.CopyComplete
+C:\School\proiect-cinema\cinemaApp\cinema\cinema-api\Cinema.API\API\obj\Debug\net6.0\API.dll
+C:\School\proiect-cinema\cinemaApp\cinema\cinema-api\Cinema.API\API\obj\Debug\net6.0\refint\API.dll
+C:\School\proiect-cinema\cinemaApp\cinema\cinema-api\Cinema.API\API\obj\Debug\net6.0\API.pdb
+C:\School\proiect-cinema\cinemaApp\cinema\cinema-api\Cinema.API\API\obj\Debug\net6.0\API.genruntimeconfig.cache
+C:\School\proiect-cinema\cinemaApp\cinema\cinema-api\Cinema.API\API\obj\Debug\net6.0\ref\API.dll
+C:\School\proiect-cinema\cinemaApp\cinema\cinema-api\Cinema.API\API\bin\Debug\net6.0\Business.dll
+C:\School\proiect-cinema\cinemaApp\cinema\cinema-api\Cinema.API\API\bin\Debug\net6.0\Business.pdb
+C:\School\proiect-cinema\cinemaApp\cinema\cinema-api\Cinema.API\API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\School\proiect-cinema\cinemaApp\cinema\cinema-api\Cinema.API\API\bin\Debug\net6.0\Common.dll
+C:\School\proiect-cinema\cinemaApp\cinema\cinema-api\Cinema.API\API\bin\Debug\net6.0\Common.pdb
+C:\School\proiect-cinema\cinemaApp\cinema\cinema-api\Cinema.API\API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\School\proiect-cinema\cinemaApp\cinema\cinema-api\Cinema.API\API\bin\Debug\net6.0\CloudinaryDotNet.dll
+C:\School\proiect-cinema\cinemaApp\cinema\cinema-api\Cinema.API\API\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\PROIECT II\cinema\cinema-api\Cinema.API\API\bin\Debug\net6.0\appsettings.json
+D:\PROIECT II\cinema\cinema-api\Cinema.API\API\bin\Debug\net6.0\appsettings.Development.json
+D:\PROIECT II\cinema\cinema-api\Cinema.API\API\bin\Debug\net6.0\API.exe
+D:\PROIECT II\cinema\cinema-api\Cinema.API\API\bin\Debug\net6.0\API.deps.json
+D:\PROIECT II\cinema\cinema-api\Cinema.API\API\bin\Debug\net6.0\API.runtimeconfig.json
+D:\PROIECT II\cinema\cinema-api\Cinema.API\API\bin\Debug\net6.0\API.dll
+D:\PROIECT II\cinema\cinema-api\Cinema.API\API\bin\Debug\net6.0\API.pdb
+D:\PROIECT II\cinema\cinema-api\Cinema.API\API\bin\Debug\net6.0\AutoMapper.dll
+D:\PROIECT II\cinema\cinema-api\Cinema.API\API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\PROIECT II\cinema\cinema-api\Cinema.API\API\bin\Debug\net6.0\Azure.Core.dll
+D:\PROIECT II\cinema\cinema-api\Cinema.API\API\bin\Debug\net6.0\Azure.Identity.dll
+D:\PROIECT II\cinema\cinema-api\Cinema.API\API\bin\Debug\net6.0\CloudinaryDotNet.dll
+D:\PROIECT II\cinema\cinema-api\Cinema.API\API\bin\Debug\net6.0\Humanizer.dll
+D:\PROIECT II\cinema\cinema-api\Cinema.API\API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\PROIECT II\cinema\cinema-api\Cinema.API\API\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\PROIECT II\cinema\cinema-api\Cinema.API\API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\PROIECT II\cinema\cinema-api\Cinema.API\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\PROIECT II\cinema\cinema-api\Cinema.API\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\PROIECT II\cinema\cinema-api\Cinema.API\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\PROIECT II\cinema\cinema-api\Cinema.API\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\PROIECT II\cinema\cinema-api\Cinema.API\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\PROIECT II\cinema\cinema-api\Cinema.API\API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\PROIECT II\cinema\cinema-api\Cinema.API\API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\PROIECT II\cinema\cinema-api\Cinema.API\API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\PROIECT II\cinema\cinema-api\Cinema.API\API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\PROIECT II\cinema\cinema-api\Cinema.API\API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\PROIECT II\cinema\cinema-api\Cinema.API\API\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\PROIECT II\cinema\cinema-api\Cinema.API\API\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\PROIECT II\cinema\cinema-api\Cinema.API\API\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\PROIECT II\cinema\cinema-api\Cinema.API\API\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\PROIECT II\cinema\cinema-api\Cinema.API\API\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\PROIECT II\cinema\cinema-api\Cinema.API\API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\PROIECT II\cinema\cinema-api\Cinema.API\API\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\PROIECT II\cinema\cinema-api\Cinema.API\API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\PROIECT II\cinema\cinema-api\Cinema.API\API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\PROIECT II\cinema\cinema-api\Cinema.API\API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\PROIECT II\cinema\cinema-api\Cinema.API\API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\PROIECT II\cinema\cinema-api\Cinema.API\API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\PROIECT II\cinema\cinema-api\Cinema.API\API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\PROIECT II\cinema\cinema-api\Cinema.API\API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\PROIECT II\cinema\cinema-api\Cinema.API\API\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\PROIECT II\cinema\cinema-api\Cinema.API\API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\PROIECT II\cinema\cinema-api\Cinema.API\API\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\PROIECT II\cinema\cinema-api\Cinema.API\API\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\PROIECT II\cinema\cinema-api\Cinema.API\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\PROIECT II\cinema\cinema-api\Cinema.API\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\PROIECT II\cinema\cinema-api\Cinema.API\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\PROIECT II\cinema\cinema-api\Cinema.API\API\bin\Debug\net6.0\System.CodeDom.dll
+D:\PROIECT II\cinema\cinema-api\Cinema.API\API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\PROIECT II\cinema\cinema-api\Cinema.API\API\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\PROIECT II\cinema\cinema-api\Cinema.API\API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\PROIECT II\cinema\cinema-api\Cinema.API\API\bin\Debug\net6.0\System.Memory.Data.dll
+D:\PROIECT II\cinema\cinema-api\Cinema.API\API\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\PROIECT II\cinema\cinema-api\Cinema.API\API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\PROIECT II\cinema\cinema-api\Cinema.API\API\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\PROIECT II\cinema\cinema-api\Cinema.API\API\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\PROIECT II\cinema\cinema-api\Cinema.API\API\bin\Debug\net6.0\System.Text.Json.dll
+D:\PROIECT II\cinema\cinema-api\Cinema.API\API\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\PROIECT II\cinema\cinema-api\Cinema.API\API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\PROIECT II\cinema\cinema-api\Cinema.API\API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\PROIECT II\cinema\cinema-api\Cinema.API\API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PROIECT II\cinema\cinema-api\Cinema.API\API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PROIECT II\cinema\cinema-api\Cinema.API\API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PROIECT II\cinema\cinema-api\Cinema.API\API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PROIECT II\cinema\cinema-api\Cinema.API\API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\PROIECT II\cinema\cinema-api\Cinema.API\API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\PROIECT II\cinema\cinema-api\Cinema.API\API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\PROIECT II\cinema\cinema-api\Cinema.API\API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\PROIECT II\cinema\cinema-api\Cinema.API\API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\PROIECT II\cinema\cinema-api\Cinema.API\API\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\PROIECT II\cinema\cinema-api\Cinema.API\API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\PROIECT II\cinema\cinema-api\Cinema.API\API\bin\Debug\net6.0\Business.dll
+D:\PROIECT II\cinema\cinema-api\Cinema.API\API\bin\Debug\net6.0\Common.dll
+D:\PROIECT II\cinema\cinema-api\Cinema.API\API\bin\Debug\net6.0\DataLogic.dll
+D:\PROIECT II\cinema\cinema-api\Cinema.API\API\bin\Debug\net6.0\Business.pdb
+D:\PROIECT II\cinema\cinema-api\Cinema.API\API\bin\Debug\net6.0\Common.pdb
+D:\PROIECT II\cinema\cinema-api\Cinema.API\API\bin\Debug\net6.0\DataLogic.pdb
+D:\PROIECT II\cinema\cinema-api\Cinema.API\API\obj\Debug\net6.0\API.csproj.AssemblyReference.cache
+D:\PROIECT II\cinema\cinema-api\Cinema.API\API\obj\Debug\net6.0\API.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROIECT II\cinema\cinema-api\Cinema.API\API\obj\Debug\net6.0\API.AssemblyInfoInputs.cache
+D:\PROIECT II\cinema\cinema-api\Cinema.API\API\obj\Debug\net6.0\API.AssemblyInfo.cs
+D:\PROIECT II\cinema\cinema-api\Cinema.API\API\obj\Debug\net6.0\API.csproj.CoreCompileInputs.cache
+D:\PROIECT II\cinema\cinema-api\Cinema.API\API\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cs
+D:\PROIECT II\cinema\cinema-api\Cinema.API\API\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cache
+D:\PROIECT II\cinema\cinema-api\Cinema.API\API\obj\Debug\net6.0\staticwebassets\msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\PROIECT II\cinema\cinema-api\Cinema.API\API\obj\Debug\net6.0\staticwebassets\msbuild.build.API.props
+D:\PROIECT II\cinema\cinema-api\Cinema.API\API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.API.props
+D:\PROIECT II\cinema\cinema-api\Cinema.API\API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.API.props
+D:\PROIECT II\cinema\cinema-api\Cinema.API\API\obj\Debug\net6.0\staticwebassets.pack.json
+D:\PROIECT II\cinema\cinema-api\Cinema.API\API\obj\Debug\net6.0\staticwebassets.build.json
+D:\PROIECT II\cinema\cinema-api\Cinema.API\API\obj\Debug\net6.0\staticwebassets.development.json
+D:\PROIECT II\cinema\cinema-api\Cinema.API\API\obj\Debug\net6.0\scopedcss\bundle\API.styles.css
+D:\PROIECT II\cinema\cinema-api\Cinema.API\API\obj\Debug\net6.0\API.csproj.CopyComplete
+D:\PROIECT II\cinema\cinema-api\Cinema.API\API\obj\Debug\net6.0\API.dll
+D:\PROIECT II\cinema\cinema-api\Cinema.API\API\obj\Debug\net6.0\refint\API.dll
+D:\PROIECT II\cinema\cinema-api\Cinema.API\API\obj\Debug\net6.0\API.pdb
+D:\PROIECT II\cinema\cinema-api\Cinema.API\API\obj\Debug\net6.0\API.genruntimeconfig.cache
+D:\PROIECT II\cinema\cinema-api\Cinema.API\API\obj\Debug\net6.0\ref\API.dll

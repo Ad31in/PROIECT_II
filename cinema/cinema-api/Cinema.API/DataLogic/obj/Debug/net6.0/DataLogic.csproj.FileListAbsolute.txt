@@ -1,0 +1,34 @@
+C:\School\proiect-cinema\cinemaApp\cinema\cinema-api\Cinema.API\DataLogic\bin\Debug\net6.0\DataLogic.deps.json
+C:\School\proiect-cinema\cinemaApp\cinema\cinema-api\Cinema.API\DataLogic\bin\Debug\net6.0\DataLogic.runtimeconfig.json
+C:\School\proiect-cinema\cinemaApp\cinema\cinema-api\Cinema.API\DataLogic\bin\Debug\net6.0\DataLogic.dll
+C:\School\proiect-cinema\cinemaApp\cinema\cinema-api\Cinema.API\DataLogic\bin\Debug\net6.0\DataLogic.pdb
+C:\School\proiect-cinema\cinemaApp\cinema\cinema-api\Cinema.API\DataLogic\obj\Debug\net6.0\DataLogic.csproj.AssemblyReference.cache
+C:\School\proiect-cinema\cinemaApp\cinema\cinema-api\Cinema.API\DataLogic\obj\Debug\net6.0\DataLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\School\proiect-cinema\cinemaApp\cinema\cinema-api\Cinema.API\DataLogic\obj\Debug\net6.0\DataLogic.AssemblyInfoInputs.cache
+C:\School\proiect-cinema\cinemaApp\cinema\cinema-api\Cinema.API\DataLogic\obj\Debug\net6.0\DataLogic.AssemblyInfo.cs
+C:\School\proiect-cinema\cinemaApp\cinema\cinema-api\Cinema.API\DataLogic\obj\Debug\net6.0\DataLogic.csproj.CoreCompileInputs.cache
+C:\School\proiect-cinema\cinemaApp\cinema\cinema-api\Cinema.API\DataLogic\obj\Debug\net6.0\DataLogic.dll
+C:\School\proiect-cinema\cinemaApp\cinema\cinema-api\Cinema.API\DataLogic\obj\Debug\net6.0\refint\DataLogic.dll
+C:\School\proiect-cinema\cinemaApp\cinema\cinema-api\Cinema.API\DataLogic\obj\Debug\net6.0\DataLogic.pdb
+C:\School\proiect-cinema\cinemaApp\cinema\cinema-api\Cinema.API\DataLogic\obj\Debug\net6.0\DataLogic.genruntimeconfig.cache
+C:\School\proiect-cinema\cinemaApp\cinema\cinema-api\Cinema.API\DataLogic\obj\Debug\net6.0\ref\DataLogic.dll
+C:\School\proiect-cinema\cinemaApp\cinema\cinema-api\Cinema.API\DataLogic\bin\Debug\net6.0\Common.dll
+C:\School\proiect-cinema\cinemaApp\cinema\cinema-api\Cinema.API\DataLogic\bin\Debug\net6.0\Common.pdb
+C:\School\proiect-cinema\cinemaApp\cinema\cinema-api\Cinema.API\DataLogic\obj\Debug\net6.0\DataLogic.csproj.CopyComplete
+D:\PROIECT II\cinema\cinema-api\Cinema.API\DataLogic\bin\Debug\net6.0\DataLogic.deps.json
+D:\PROIECT II\cinema\cinema-api\Cinema.API\DataLogic\bin\Debug\net6.0\DataLogic.runtimeconfig.json
+D:\PROIECT II\cinema\cinema-api\Cinema.API\DataLogic\bin\Debug\net6.0\DataLogic.dll
+D:\PROIECT II\cinema\cinema-api\Cinema.API\DataLogic\bin\Debug\net6.0\DataLogic.pdb
+D:\PROIECT II\cinema\cinema-api\Cinema.API\DataLogic\bin\Debug\net6.0\Common.dll
+D:\PROIECT II\cinema\cinema-api\Cinema.API\DataLogic\bin\Debug\net6.0\Common.pdb
+D:\PROIECT II\cinema\cinema-api\Cinema.API\DataLogic\obj\Debug\net6.0\DataLogic.csproj.AssemblyReference.cache
+D:\PROIECT II\cinema\cinema-api\Cinema.API\DataLogic\obj\Debug\net6.0\DataLogic.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROIECT II\cinema\cinema-api\Cinema.API\DataLogic\obj\Debug\net6.0\DataLogic.AssemblyInfoInputs.cache
+D:\PROIECT II\cinema\cinema-api\Cinema.API\DataLogic\obj\Debug\net6.0\DataLogic.AssemblyInfo.cs
+D:\PROIECT II\cinema\cinema-api\Cinema.API\DataLogic\obj\Debug\net6.0\DataLogic.csproj.CoreCompileInputs.cache
+D:\PROIECT II\cinema\cinema-api\Cinema.API\DataLogic\obj\Debug\net6.0\DataLogic.csproj.CopyComplete
+D:\PROIECT II\cinema\cinema-api\Cinema.API\DataLogic\obj\Debug\net6.0\DataLogic.dll
+D:\PROIECT II\cinema\cinema-api\Cinema.API\DataLogic\obj\Debug\net6.0\refint\DataLogic.dll
+D:\PROIECT II\cinema\cinema-api\Cinema.API\DataLogic\obj\Debug\net6.0\DataLogic.pdb
+D:\PROIECT II\cinema\cinema-api\Cinema.API\DataLogic\obj\Debug\net6.0\DataLogic.genruntimeconfig.cache
+D:\PROIECT II\cinema\cinema-api\Cinema.API\DataLogic\obj\Debug\net6.0\ref\DataLogic.dll

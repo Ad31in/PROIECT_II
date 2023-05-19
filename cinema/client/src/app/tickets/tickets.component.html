@@ -1,0 +1,24 @@
+<div *ngIf="tickets"
+     class="container">
+    <div *ngFor="let ticket of tickets">
+        <div class="grid-box">
+            <div class="image">
+                <img src="../assets/images/ticket.jpg"
+                     alt="">
+            </div>
+            <div class="content">
+                <a routerLink={{ticket.id}}>{{ticket.id}}</a>
+                <h3>Person: {{ticket.user.firstName | titlecase}}</h3>
+                <h3>Movie - {{ticket.showing.movie?.title |titlecase}}</h3>
+                <p>Seat: Row: {{ticket.seat.row}}, Nr: {{ticket.seat.number}}</p>
+                <p>Room - {{ticket.showing.room?.number}}</p>
+                <p>StartDate: {{ticket.showing.startDate | date:"short"}}</p>
+            </div>
+            <div class="barcode">
+                <img src="../assets/images/barcode.jpg"
+                     alt="">
+            </div>
+        </div>
+
+    </div>
+</div>

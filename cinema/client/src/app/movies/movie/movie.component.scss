@@ -1,0 +1,40 @@
+.grid-container {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-template-rows: auto;
+  row-gap: 20px;
+  grid-template-areas: "image image description description" "showings showings showings empty";
+  margin-top: 80px;
+
+  .image {
+    grid-area: image;
+    align-self: center;
+    justify-self: center;
+    img {
+      width: 400px;
+    }
+  }
+
+  .description {
+    align-self: center;
+    justify-self: center;
+    grid-area: description;
+  }
+
+  .showings {
+    display: grid;
+    grid-area: showings;
+    grid-template-columns: repeat(4, 1fr);
+    row-gap: 10px;
+
+    .showing {
+        
+        button {
+        min-width: 200px;
+      }
+    }
+  }
+}
+p {
+  margin: 0;
+}

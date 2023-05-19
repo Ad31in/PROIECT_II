@@ -1,0 +1,58 @@
+.container {
+  margin-top: 100px;
+
+  .grid-container {
+    display: grid;
+    grid-template-columns: 1fr 4fr;
+    grid-template-areas: "image content";
+    column-gap: 20px;
+    margin-bottom: 20px;
+
+    .image {
+      grid-area: image;
+      align-self: center;
+      justify-self: center;
+
+      img {
+        height: 200px;
+      }
+    }
+
+    .content {
+      grid-area: content;
+      display: grid;
+      grid-template-areas: "top" "showings";
+
+      a {
+        text-decoration: none;
+        font-size: 2rem;
+        color: black;
+      }
+
+      .top-content {
+        grid-area: top;
+      }
+
+      .showings {
+        grid-area: showings;
+        align-content: end;
+        display: grid;
+        grid-template-columns: repeat(8, 1fr);
+        row-gap: 10px;
+        overflow-y: scroll;
+
+        button {
+          width: 100px;
+        }
+      }
+      .showings::-webkit-scrollbar {
+        display: none;
+      }
+    }
+  }
+}
+
+p {
+  margin: 0;
+  padding: 0;
+}

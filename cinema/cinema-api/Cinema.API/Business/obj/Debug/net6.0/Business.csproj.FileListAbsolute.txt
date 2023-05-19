@@ -1,0 +1,34 @@
+C:\School\proiect-cinema\cinemaApp\cinema\cinema-api\Cinema.API\Business\bin\Debug\net6.0\Business.deps.json
+C:\School\proiect-cinema\cinemaApp\cinema\cinema-api\Cinema.API\Business\bin\Debug\net6.0\Business.dll
+C:\School\proiect-cinema\cinemaApp\cinema\cinema-api\Cinema.API\Business\bin\Debug\net6.0\Business.pdb
+C:\School\proiect-cinema\cinemaApp\cinema\cinema-api\Cinema.API\Business\obj\Debug\net6.0\Business.csproj.AssemblyReference.cache
+C:\School\proiect-cinema\cinemaApp\cinema\cinema-api\Cinema.API\Business\obj\Debug\net6.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\School\proiect-cinema\cinemaApp\cinema\cinema-api\Cinema.API\Business\obj\Debug\net6.0\Business.AssemblyInfoInputs.cache
+C:\School\proiect-cinema\cinemaApp\cinema\cinema-api\Cinema.API\Business\obj\Debug\net6.0\Business.AssemblyInfo.cs
+C:\School\proiect-cinema\cinemaApp\cinema\cinema-api\Cinema.API\Business\obj\Debug\net6.0\Business.csproj.CoreCompileInputs.cache
+C:\School\proiect-cinema\cinemaApp\cinema\cinema-api\Cinema.API\Business\obj\Debug\net6.0\Business.dll
+C:\School\proiect-cinema\cinemaApp\cinema\cinema-api\Cinema.API\Business\obj\Debug\net6.0\refint\Business.dll
+C:\School\proiect-cinema\cinemaApp\cinema\cinema-api\Cinema.API\Business\obj\Debug\net6.0\Business.pdb
+C:\School\proiect-cinema\cinemaApp\cinema\cinema-api\Cinema.API\Business\obj\Debug\net6.0\ref\Business.dll
+C:\School\proiect-cinema\cinemaApp\cinema\cinema-api\Cinema.API\Business\bin\Debug\net6.0\DataLogic.dll
+C:\School\proiect-cinema\cinemaApp\cinema\cinema-api\Cinema.API\Business\bin\Debug\net6.0\DataLogic.pdb
+C:\School\proiect-cinema\cinemaApp\cinema\cinema-api\Cinema.API\Business\obj\Debug\net6.0\Business.csproj.CopyComplete
+C:\School\proiect-cinema\cinemaApp\cinema\cinema-api\Cinema.API\Business\bin\Debug\net6.0\Common.dll
+C:\School\proiect-cinema\cinemaApp\cinema\cinema-api\Cinema.API\Business\bin\Debug\net6.0\Common.pdb
+D:\PROIECT II\cinema\cinema-api\Cinema.API\Business\bin\Debug\net6.0\Business.deps.json
+D:\PROIECT II\cinema\cinema-api\Cinema.API\Business\bin\Debug\net6.0\Business.dll
+D:\PROIECT II\cinema\cinema-api\Cinema.API\Business\bin\Debug\net6.0\Business.pdb
+D:\PROIECT II\cinema\cinema-api\Cinema.API\Business\bin\Debug\net6.0\Common.dll
+D:\PROIECT II\cinema\cinema-api\Cinema.API\Business\bin\Debug\net6.0\DataLogic.dll
+D:\PROIECT II\cinema\cinema-api\Cinema.API\Business\bin\Debug\net6.0\Common.pdb
+D:\PROIECT II\cinema\cinema-api\Cinema.API\Business\bin\Debug\net6.0\DataLogic.pdb
+D:\PROIECT II\cinema\cinema-api\Cinema.API\Business\obj\Debug\net6.0\Business.csproj.AssemblyReference.cache
+D:\PROIECT II\cinema\cinema-api\Cinema.API\Business\obj\Debug\net6.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROIECT II\cinema\cinema-api\Cinema.API\Business\obj\Debug\net6.0\Business.AssemblyInfoInputs.cache
+D:\PROIECT II\cinema\cinema-api\Cinema.API\Business\obj\Debug\net6.0\Business.AssemblyInfo.cs
+D:\PROIECT II\cinema\cinema-api\Cinema.API\Business\obj\Debug\net6.0\Business.csproj.CoreCompileInputs.cache
+D:\PROIECT II\cinema\cinema-api\Cinema.API\Business\obj\Debug\net6.0\Business.csproj.CopyComplete
+D:\PROIECT II\cinema\cinema-api\Cinema.API\Business\obj\Debug\net6.0\Business.dll
+D:\PROIECT II\cinema\cinema-api\Cinema.API\Business\obj\Debug\net6.0\refint\Business.dll
+D:\PROIECT II\cinema\cinema-api\Cinema.API\Business\obj\Debug\net6.0\Business.pdb
+D:\PROIECT II\cinema\cinema-api\Cinema.API\Business\obj\Debug\net6.0\ref\Business.dll

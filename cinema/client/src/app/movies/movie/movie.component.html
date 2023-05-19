@@ -1,0 +1,31 @@
+<div *ngIf="movie"
+     class="grid-container">
+
+    <div class="image">
+        <img [src]="movie.photoUrl || 'assets/images/movie.jpg'"
+             alt="no photo"
+             class="img-fluid">
+    </div>
+    <div class="description">
+        <div>
+            <h1>{{movie.title}}</h1>
+            <p>{{movie.description}}</p>
+            <p *ngIf="movie.genres.length>0">Genres: <span
+                      *ngFor="let genre of movie.genres">{{genre.name | genreType }}</span></p>
+        </div>
+
+    </div>
+
+    <div *ngIf="movie.showings as showings"
+         class="showings">
+        <div *ngFor=" let showing of showings"
+             class="showing">
+            <button type="button"
+                    class="btn btn-warning"
+                    (click)="goToShowing(showing.id)">
+                <p>{{showing.startDate | date:'shortTime'}}</p>
+            </button>
+
+        </div>
+    </div>
+</div>

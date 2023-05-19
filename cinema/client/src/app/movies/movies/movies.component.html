@@ -1,0 +1,33 @@
+<div *ngIf="!(accountService.currentUser$ |async)">
+    <app-register></app-register>
+</div>
+<div *ngIf="accountService.currentUser$ |async">
+    <div *ngFor="let movie of movies$ | async"
+         class="container">
+        <div *ngIf="movie.showings.length > 0"
+             class="grid-container">
+            <div class="image">
+                <img [src]="movie.photoUrl || 'assets/images/movie.jpg'"
+                     alt="no photo"
+                     class="img-fluid">
+            </div>
+            <div class="content">
+                <div class="top-content">
+                    <a routerLink="{{ movie.id }}">{{ movie.title }}</a>
+                    <p>{{movie.description}}</p>
+                </div>
+
+                <div class="showings">
+                    <div *ngFor="let showing of movie.showings">
+                        <button type="button"
+                                class="btn btn-warning"
+                                (click)="
+                            goToShowing(showing.id)">
+                            <p> {{ showing.startDate | date: 'short' }}</p>
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
