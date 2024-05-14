@@ -6,11 +6,12 @@ import { Movie } from '../models/movie';
 import { Room } from '../models/room';
 import { Showing } from '../models/showing';
 import { ToastrService } from 'ngx-toastr';
+import { Router } from '@angular/router';
 
 @Component({
   selector: 'app-add-showing',
   templateUrl: './add-showing.component.html',
-  styleUrls: ['./add-showing.component.scss']
+  styleUrls: ['./add-showing.component.scss'],
 })
 export class AddShowingComponent implements OnInit {
   movies: Movie[] = [];
@@ -27,7 +28,8 @@ export class AddShowingComponent implements OnInit {
     private roomService: RoomService,
     private movieService: MovieService,
     private toastr: ToastrService,
-  ) { }
+    private router: Router
+  ) {}
 
   ngOnInit(): void {
     this.initializeMovies();
@@ -55,7 +57,13 @@ export class AddShowingComponent implements OnInit {
       const selectedDuration = this.parseDuration(duration);
       const date = this.selectedTime;
       const selectedDate = new Date(date);
-      const selectedDateOnly = new Date(selectedDate.getFullYear(), selectedDate.getMonth(), selectedDate.getDate(), selectedDate.getHours(), selectedDate.getMinutes());
+      const selectedDateOnly = new Date(
+        selectedDate.getFullYear(),
+        selectedDate.getMonth(),
+        selectedDate.getDate(),
+        selectedDate.getHours(),
+        selectedDate.getMinutes()
+      );
       this.availableRooms = this.rooms.filter((room: Room) => {
         if (!room.showings || room.showings.length == 0) {
           return true;
@@ -84,25 +92,25 @@ export class AddShowingComponent implements OnInit {
   parseDuration(duration: string): number {
     // Assuming the Time format is 'HH:MM:SS'
     const [hours, minutes, seconds] = duration.split(':').map(Number);
-    const durationInMilliseconds = hours * 60 * 60 * 1000 + minutes * 60 * 1000 + seconds * 1000;
+    const durationInMilliseconds =
+      hours * 60 * 60 * 1000 + minutes * 60 * 1000 + seconds * 1000;
     return durationInMilliseconds;
   }
-
-
 
   addShowing(): void {
     this.model.startDate = new Date(this.selectedTime);
     this.model.roomId = this.selectedRoom.id;
-    this.model.movieId = this.selectedMovie?.id
+    this.model.movieId = this.selectedMovie?.id;
     console.log(this.model);
 
     this.showingService.addShowing(this.model).subscribe(
       () => {
-        this.toastr.success("Shwing was added successfully!")
+        this.toastr.success('Shwing was added successfully!');
         this.initializeRooms();
+        this.router.navigateByUrl('/');
       },
       () => {
-        this.toastr.error("There was a problem!")
+        this.toastr.error('There was a problem!');
       }
     );
     // You can access the selected movie, room, and date using the respective properties in this component

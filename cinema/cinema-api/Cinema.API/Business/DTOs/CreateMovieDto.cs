@@ -15,7 +15,9 @@ namespace Business.DTOs
 
         [Required] public string Description { get; set; }
 
-        [Required] public TimeSpan Duration { get; set; }
+        [Required] public int DurationInHours { get; set; }
+
+        [Required] public int DurationInMinutes { get; set; }
 
         [Required] public ICollection<GenreDto> Genres { get; set; }
     }

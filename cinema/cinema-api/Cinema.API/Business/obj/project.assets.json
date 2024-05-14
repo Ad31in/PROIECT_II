@@ -3546,19 +3546,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\andre\\.nuget\\packages\\": {}
+    "C:\\Users\\Adelin Popescu\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\PROIECT II\\cinema\\cinema-api\\Cinema.API\\Business\\Business.csproj",
+      "projectUniqueName": "D:\\personal\\PROIECT_II\\cinema\\cinema-api\\Cinema.API\\Business\\Business.csproj",
       "projectName": "Business",
-      "projectPath": "D:\\PROIECT II\\cinema\\cinema-api\\Cinema.API\\Business\\Business.csproj",
-      "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-      "outputPath": "D:\\PROIECT II\\cinema\\cinema-api\\Cinema.API\\Business\\obj\\",
+      "projectPath": "D:\\personal\\PROIECT_II\\cinema\\cinema-api\\Cinema.API\\Business\\Business.csproj",
+      "packagesPath": "C:\\Users\\Adelin Popescu\\.nuget\\packages\\",
+      "outputPath": "D:\\personal\\PROIECT_II\\cinema\\cinema-api\\Cinema.API\\Business\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\andre\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Adelin Popescu\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -3572,11 +3572,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\PROIECT II\\cinema\\cinema-api\\Cinema.API\\Common\\Common.csproj": {
-              "projectPath": "D:\\PROIECT II\\cinema\\cinema-api\\Cinema.API\\Common\\Common.csproj"
+            "D:\\personal\\PROIECT_II\\cinema\\cinema-api\\Cinema.API\\Common\\Common.csproj": {
+              "projectPath": "D:\\personal\\PROIECT_II\\cinema\\cinema-api\\Cinema.API\\Common\\Common.csproj"
             },
-            "D:\\PROIECT II\\cinema\\cinema-api\\Cinema.API\\DataLogic\\DataLogic.csproj": {
-              "projectPath": "D:\\PROIECT II\\cinema\\cinema-api\\Cinema.API\\DataLogic\\DataLogic.csproj"
+            "D:\\personal\\PROIECT_II\\cinema\\cinema-api\\Cinema.API\\DataLogic\\DataLogic.csproj": {
+              "projectPath": "D:\\personal\\PROIECT_II\\cinema\\cinema-api\\Cinema.API\\DataLogic\\DataLogic.csproj"
             }
           }
         }
@@ -3636,8 +3636,20 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1902",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'System.IdentityModel.Tokens.Jwt' 6.30.0 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-59j7-ghrg-fj52",
+      "libraryId": "System.IdentityModel.Tokens.Jwt",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
 }

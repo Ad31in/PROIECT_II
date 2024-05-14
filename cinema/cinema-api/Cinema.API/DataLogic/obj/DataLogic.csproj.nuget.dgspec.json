@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\PROIECT II\\cinema\\cinema-api\\Cinema.API\\DataLogic\\DataLogic.csproj": {}
+    "D:\\personal\\PROIECT_II\\cinema\\cinema-api\\Cinema.API\\DataLogic\\DataLogic.csproj": {}
   },
   "projects": {
-    "D:\\PROIECT II\\cinema\\cinema-api\\Cinema.API\\Common\\Common.csproj": {
+    "D:\\personal\\PROIECT_II\\cinema\\cinema-api\\Cinema.API\\Common\\Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PROIECT II\\cinema\\cinema-api\\Cinema.API\\Common\\Common.csproj",
+        "projectUniqueName": "D:\\personal\\PROIECT_II\\cinema\\cinema-api\\Cinema.API\\Common\\Common.csproj",
         "projectName": "Common",
-        "projectPath": "D:\\PROIECT II\\cinema\\cinema-api\\Cinema.API\\Common\\Common.csproj",
-        "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-        "outputPath": "D:\\PROIECT II\\cinema\\cinema-api\\Cinema.API\\Common\\obj\\",
+        "projectPath": "D:\\personal\\PROIECT_II\\cinema\\cinema-api\\Cinema.API\\Common\\Common.csproj",
+        "packagesPath": "C:\\Users\\Adelin Popescu\\.nuget\\packages\\",
+        "outputPath": "D:\\personal\\PROIECT_II\\cinema\\cinema-api\\Cinema.API\\Common\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\andre\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Adelin Popescu\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -69,21 +69,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\PROIECT II\\cinema\\cinema-api\\Cinema.API\\DataLogic\\DataLogic.csproj": {
+    "D:\\personal\\PROIECT_II\\cinema\\cinema-api\\Cinema.API\\DataLogic\\DataLogic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PROIECT II\\cinema\\cinema-api\\Cinema.API\\DataLogic\\DataLogic.csproj",
+        "projectUniqueName": "D:\\personal\\PROIECT_II\\cinema\\cinema-api\\Cinema.API\\DataLogic\\DataLogic.csproj",
         "projectName": "DataLogic",
-        "projectPath": "D:\\PROIECT II\\cinema\\cinema-api\\Cinema.API\\DataLogic\\DataLogic.csproj",
-        "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-        "outputPath": "D:\\PROIECT II\\cinema\\cinema-api\\Cinema.API\\DataLogic\\obj\\",
+        "projectPath": "D:\\personal\\PROIECT_II\\cinema\\cinema-api\\Cinema.API\\DataLogic\\DataLogic.csproj",
+        "packagesPath": "C:\\Users\\Adelin Popescu\\.nuget\\packages\\",
+        "outputPath": "D:\\personal\\PROIECT_II\\cinema\\cinema-api\\Cinema.API\\DataLogic\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\andre\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Adelin Popescu\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -97,8 +97,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\PROIECT II\\cinema\\cinema-api\\Cinema.API\\Common\\Common.csproj": {
-                "projectPath": "D:\\PROIECT II\\cinema\\cinema-api\\Cinema.API\\Common\\Common.csproj"
+              "D:\\personal\\PROIECT_II\\cinema\\cinema-api\\Cinema.API\\Common\\Common.csproj": {
+                "projectPath": "D:\\personal\\PROIECT_II\\cinema\\cinema-api\\Cinema.API\\Common\\Common.csproj"
               }
             }
           }
@@ -170,7 +170,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

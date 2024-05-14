@@ -27,14 +27,23 @@
         <div class="mb-3">
             <label for="duration"
                    class="form-label">Duration</label>
-            <input type="time"
-                   step="1"
-                   id="duration"
-                   name="duration"
-                   class="form-control"
-                   [(ngModel)]="model.duration"
-                   placeholder="ex:"
-                   required>
+              <div class="d-flex">
+                     <input type="number"
+                            id="duration"
+                            name="duration"
+                            class="form-control"
+                            [(ngModel)]="model.durationInHours"
+                            placeholder="hours"
+                            required>
+                     <input type="number"
+                            id="duration"
+                            name="duration"
+                            class="form-control"
+                            [(ngModel)]="model.durationInMinutes"
+                            placeholder="minutes"
+                            required>
+              </div>
+            
         </div>
 
         <div class="mb-3">

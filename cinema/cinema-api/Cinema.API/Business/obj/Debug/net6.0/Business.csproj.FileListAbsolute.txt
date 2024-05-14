@@ -32,3 +32,21 @@ D:\PROIECT II\cinema\cinema-api\Cinema.API\Business\obj\Debug\net6.0\Business.dl
 D:\PROIECT II\cinema\cinema-api\Cinema.API\Business\obj\Debug\net6.0\refint\Business.dll
 D:\PROIECT II\cinema\cinema-api\Cinema.API\Business\obj\Debug\net6.0\Business.pdb
 D:\PROIECT II\cinema\cinema-api\Cinema.API\Business\obj\Debug\net6.0\ref\Business.dll
+D:\personal\PROIECT_II\cinema\cinema-api\Cinema.API\Business\bin\Debug\net6.0\Business.deps.json
+D:\personal\PROIECT_II\cinema\cinema-api\Cinema.API\Business\bin\Debug\net6.0\Business.dll
+D:\personal\PROIECT_II\cinema\cinema-api\Cinema.API\Business\bin\Debug\net6.0\Business.pdb
+D:\personal\PROIECT_II\cinema\cinema-api\Cinema.API\Business\bin\Debug\net6.0\Common.dll
+D:\personal\PROIECT_II\cinema\cinema-api\Cinema.API\Business\bin\Debug\net6.0\DataLogic.dll
+D:\personal\PROIECT_II\cinema\cinema-api\Cinema.API\Business\bin\Debug\net6.0\Common.pdb
+D:\personal\PROIECT_II\cinema\cinema-api\Cinema.API\Business\bin\Debug\net6.0\DataLogic.pdb
+D:\personal\PROIECT_II\cinema\cinema-api\Cinema.API\Business\obj\Debug\net6.0\Business.csproj.AssemblyReference.cache
+D:\personal\PROIECT_II\cinema\cinema-api\Cinema.API\Business\obj\Debug\net6.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\personal\PROIECT_II\cinema\cinema-api\Cinema.API\Business\obj\Debug\net6.0\Business.AssemblyInfoInputs.cache
+D:\personal\PROIECT_II\cinema\cinema-api\Cinema.API\Business\obj\Debug\net6.0\Business.AssemblyInfo.cs
+D:\personal\PROIECT_II\cinema\cinema-api\Cinema.API\Business\obj\Debug\net6.0\Business.csproj.CoreCompileInputs.cache
+D:\personal\PROIECT_II\cinema\cinema-api\Cinema.API\Business\obj\Debug\net6.0\Business.sourcelink.json
+D:\personal\PROIECT_II\cinema\cinema-api\Cinema.API\Business\obj\Debug\net6.0\Business.csproj.CopyComplete
+D:\personal\PROIECT_II\cinema\cinema-api\Cinema.API\Business\obj\Debug\net6.0\Business.dll
+D:\personal\PROIECT_II\cinema\cinema-api\Cinema.API\Business\obj\Debug\net6.0\refint\Business.dll
+D:\personal\PROIECT_II\cinema\cinema-api\Cinema.API\Business\obj\Debug\net6.0\Business.pdb
+D:\personal\PROIECT_II\cinema\cinema-api\Cinema.API\Business\obj\Debug\net6.0\ref\Business.dll

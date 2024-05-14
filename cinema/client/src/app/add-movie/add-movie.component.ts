@@ -25,7 +25,6 @@ export class AddMovieComponent {
   constructor(private router: Router, private movieService: MovieService, private toastr: ToastrService) { }
 
   addMovie() {
-    console.log(this.model);
     this.movieService.addMovie(this.model).subscribe(
       (movie) => {
         this.toastr.success('Movie added successfully');

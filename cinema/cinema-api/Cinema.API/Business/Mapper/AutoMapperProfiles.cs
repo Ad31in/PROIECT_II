@@ -19,7 +19,8 @@ namespace Business.Mapper
             CreateMap<MovieDto, Movie>();
 
             CreateMap<Movie, MovieBriefDto>();
-            CreateMap<CreateMovieDto, Movie>();
+            CreateMap<CreateMovieDto, Movie>()
+                .ForMember(dest => dest.Duration, opt => opt.MapFrom(src => new TimeSpan(src.DurationInHours, src.DurationInMinutes, 0)));
 
             CreateMap<Seat, SeatDto>();
 

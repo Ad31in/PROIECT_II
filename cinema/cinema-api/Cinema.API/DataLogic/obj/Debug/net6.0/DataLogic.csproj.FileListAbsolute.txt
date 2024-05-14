@@ -32,3 +32,21 @@ D:\PROIECT II\cinema\cinema-api\Cinema.API\DataLogic\obj\Debug\net6.0\refint\Dat
 D:\PROIECT II\cinema\cinema-api\Cinema.API\DataLogic\obj\Debug\net6.0\DataLogic.pdb
 D:\PROIECT II\cinema\cinema-api\Cinema.API\DataLogic\obj\Debug\net6.0\DataLogic.genruntimeconfig.cache
 D:\PROIECT II\cinema\cinema-api\Cinema.API\DataLogic\obj\Debug\net6.0\ref\DataLogic.dll
+D:\personal\PROIECT_II\cinema\cinema-api\Cinema.API\DataLogic\bin\Debug\net6.0\DataLogic.deps.json
+D:\personal\PROIECT_II\cinema\cinema-api\Cinema.API\DataLogic\bin\Debug\net6.0\DataLogic.runtimeconfig.json
+D:\personal\PROIECT_II\cinema\cinema-api\Cinema.API\DataLogic\bin\Debug\net6.0\DataLogic.dll
+D:\personal\PROIECT_II\cinema\cinema-api\Cinema.API\DataLogic\bin\Debug\net6.0\DataLogic.pdb
+D:\personal\PROIECT_II\cinema\cinema-api\Cinema.API\DataLogic\bin\Debug\net6.0\Common.dll
+D:\personal\PROIECT_II\cinema\cinema-api\Cinema.API\DataLogic\bin\Debug\net6.0\Common.pdb
+D:\personal\PROIECT_II\cinema\cinema-api\Cinema.API\DataLogic\obj\Debug\net6.0\DataLogic.csproj.AssemblyReference.cache
+D:\personal\PROIECT_II\cinema\cinema-api\Cinema.API\DataLogic\obj\Debug\net6.0\DataLogic.GeneratedMSBuildEditorConfig.editorconfig
+D:\personal\PROIECT_II\cinema\cinema-api\Cinema.API\DataLogic\obj\Debug\net6.0\DataLogic.AssemblyInfoInputs.cache
+D:\personal\PROIECT_II\cinema\cinema-api\Cinema.API\DataLogic\obj\Debug\net6.0\DataLogic.AssemblyInfo.cs
+D:\personal\PROIECT_II\cinema\cinema-api\Cinema.API\DataLogic\obj\Debug\net6.0\DataLogic.csproj.CoreCompileInputs.cache
+D:\personal\PROIECT_II\cinema\cinema-api\Cinema.API\DataLogic\obj\Debug\net6.0\DataLogic.sourcelink.json
+D:\personal\PROIECT_II\cinema\cinema-api\Cinema.API\DataLogic\obj\Debug\net6.0\DataLogic.csproj.CopyComplete
+D:\personal\PROIECT_II\cinema\cinema-api\Cinema.API\DataLogic\obj\Debug\net6.0\DataLogic.dll
+D:\personal\PROIECT_II\cinema\cinema-api\Cinema.API\DataLogic\obj\Debug\net6.0\refint\DataLogic.dll
+D:\personal\PROIECT_II\cinema\cinema-api\Cinema.API\DataLogic\obj\Debug\net6.0\DataLogic.pdb
+D:\personal\PROIECT_II\cinema\cinema-api\Cinema.API\DataLogic\obj\Debug\net6.0\DataLogic.genruntimeconfig.cache
+D:\personal\PROIECT_II\cinema\cinema-api\Cinema.API\DataLogic\obj\Debug\net6.0\ref\DataLogic.dll
